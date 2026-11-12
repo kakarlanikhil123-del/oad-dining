@@ -1,0 +1,6 @@
+{
+  "name": "OAD - Opinionated About Dining",
+  "description": "Global culinary dining guide, top restaurant rankings, city guides, and curated reviews by passionate gastronomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
